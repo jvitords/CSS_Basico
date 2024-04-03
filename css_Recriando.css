@@ -1,0 +1,22 @@
+.body {
+  background-color: #f9e9e9;
+  margin: 0px auto 0px auto;
+  width: 70%;
+  height: 100%;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.date {
+  font-family: "Roboto";
+  color: #029e9e;
+  font-size: 14px;
+  font-weight: 900;
+}
+
+.prg {
+  font-family: "Open+Sans";
+}

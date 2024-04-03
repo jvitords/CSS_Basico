@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(45, 45, 130);
+  color: aliceblue;
+  font-family: monospace;
+  font-size: 14px;
+}
+
+h1 {
+  color: rgb(204, 225, 243);
+  font-family: arial;
+  text-align: center;
+  margin-top: 30px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 10px;
+}
+
+h4 {
+  color: rgb(183, 183, 15);
+}
+
+h3 {
+  color: rgb(41, 41, 41);
+  background-color: rgb(173, 173, 5);
+  border: 5px ridge black;
+}
+
+.one {
+  color: brown;
+}

@@ -1,0 +1,7 @@
+li {
+  background-color: rgb(208, 241, 230);
+}
+
+h2 + p {
+  border: 2px groove rgb(234, 116, 116);
+}
